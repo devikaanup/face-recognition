@@ -14,13 +14,13 @@ Optimized frame processing for smooth real-time performance
 
 Tool                Purpose                            
 --------------------------------------------------------
-Python              Core language            
+Python         -     Core language            
 --------------------------------------------------------
-OpenCV              Webcam capture & video annotation
+OpenCV         -    Webcam capture & video annotation
 --------------------------------------------------------
-face_recognition    Face encoding & identity matching
+face_recognition  - Face encoding & identity matching
 --------------------------------------------------------
-NumPy               Frame processing & array operations
+NumPy     -         Frame processing & array operations
 --------------------------------------------------------
 
 -Project Structure-
